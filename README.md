@@ -10,6 +10,8 @@ This project developed using unity as game engine and C# programming language.
 - Shoot other enemies
 - Eat other enemies
 - Grow bigger
+- Leaderboard
+- High score
 
 # Screenshot
 - Landing page

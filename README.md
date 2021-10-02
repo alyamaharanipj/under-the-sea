@@ -10,18 +10,21 @@ Under the sea is a mobile game that have a basic concept from agar.io. The main 
 - Grow bigger
 
 # Screenshot
-Landing page
+- Landing page
+
 ![alt tag](https://github.com/alyamaharanipj/under-the-sea/blob/main/screenshot/landing%20page.png)
 
-Choose fish type
+- Choose fish type
+
 ![alt tag](https://github.com/alyamaharanipj/under-the-sea/blob/main/screenshot/fish%20type.png)
 
-Game play
+- Game play
+
 ![alt tag](https://github.com/alyamaharanipj/under-the-sea/blob/main/screenshot/main%20screen.png)
 
-![alt tag](https://github.com/alyamaharanipj/under-the-sea/blob/main/screenshot/main%20screen%2.png)
+![alt tag](https://github.com/alyamaharanipj/under-the-sea/blob/main/screenshot/main%20screen%202.png)
 
-![alt tag](https://github.com/alyamaharanipj/under-the-sea/blob/main/screenshot/main%20screen%3.png)
+![alt tag](https://github.com/alyamaharanipj/under-the-sea/blob/main/screenshot/main%20screen%203.png)
 
 # Note
 This game available on play store: https://play.google.com/store/apps/details?id=com.ikhsan.agar
